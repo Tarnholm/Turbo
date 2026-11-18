@@ -9,7 +9,7 @@ Shorter AI turns, quicker loading, and fixes for crashes and freezes.</p>
 
 <p align="center">
   <a href="https://github.com/Tarnholm/Turbo/releases/latest/download/RRTurbo.exe">
-    <img src="https://img.shields.io/badge/%E2%AC%87%20%20Download%20RR%20Turbo-RRTurbo.exe-8b1a1a?style=for-the-badge" alt="Download RR Turbo" height="48">
+    <img src="https://img.shields.io/badge/%E2%AC%87%EF%B8%8F%20%20DOWNLOAD%20RR%20TURBO-a3201c?style=for-the-badge" alt="Download RR Turbo" width="340">
   </a>
 </p>
 
